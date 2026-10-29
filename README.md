@@ -64,5 +64,155 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CloudTruth is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://www.nasdaqprivatemarket.com/
+CloudTruth provides a Config Data Platform that helps enterprises eliminate misconfigurations across cloud, IaC, and application settings. The platform enables teams to centrally manage configuration data, enforce policies, and integrate with CI/CD pipelines, Kubernetes, Terraform, and other tools. CloudTruth offers secure storage, versioning, and audit trails for configuration values, supporting compliance and reducing risk of configuration drift. It serves developers, DevOps, and security engineers seeking reliable configuration management at scale.
+
+**Areas:** Company · ConfigManagement · DevOps · Cloud · Security
+
+## CloudTruth on APIs.io
+
+Everything profiled for CloudTruth is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cloudtruth/](https://apis.io/providers/cloudtruth/)** — or go straight to one of the APIs or properties below.
+
+### APIs (21)
+
+- [CloudTruth Audit API](https://apis.io/apis/cloudtruth/cloudtruth-audit-api/) — The audit API from CloudTruth — 3 operation(s) for audit.
+- [CloudTruth Backup API](https://apis.io/apis/cloudtruth/cloudtruth-backup-api/) — The backup API from CloudTruth — 1 operation(s) for backup.
+- [CloudTruth Environments API](https://apis.io/apis/cloudtruth/cloudtruth-environments-api/) — The environments API from CloudTruth — 6 operation(s) for environments.
+- [CloudTruth Features API](https://apis.io/apis/cloudtruth/cloudtruth-features-api/) — The features API from CloudTruth — 1 operation(s) for features.
+- [CloudTruth Grants API](https://apis.io/apis/cloudtruth/cloudtruth-grants-api/) — The grants API from CloudTruth — 3 operation(s) for grants.
+- [CloudTruth Groups API](https://apis.io/apis/cloudtruth/cloudtruth-groups-api/) — The groups API from CloudTruth — 4 operation(s) for groups.
+- [CloudTruth Import API](https://apis.io/apis/cloudtruth/cloudtruth-import-api/) — The import API from CloudTruth — 1 operation(s) for import.
+- [CloudTruth Integrations API](https://apis.io/apis/cloudtruth/cloudtruth-integrations-api/) — The integrations API from CloudTruth — 44 operation(s) for integrations.
+- [CloudTruth Internal API](https://apis.io/apis/cloudtruth/cloudtruth-internal-api/) — The _internal API from CloudTruth — 1 operation(s) for _internal.
+- [CloudTruth Invitations API](https://apis.io/apis/cloudtruth/cloudtruth-invitations-api/) — The invitations API from CloudTruth — 5 operation(s) for invitations.
+- [CloudTruth Log Destinations API](https://apis.io/apis/cloudtruth/cloudtruth-log-destinations-api/) — The log-destinations API from CloudTruth — 3 operation(s) for log-destinations.
+- [CloudTruth Memberships API](https://apis.io/apis/cloudtruth/cloudtruth-memberships-api/) — The memberships API from CloudTruth — 2 operation(s) for memberships.
+- [CloudTruth Organizations API](https://apis.io/apis/cloudtruth/cloudtruth-organizations-api/) — The organizations API from CloudTruth — 2 operation(s) for organizations.
+- [CloudTruth Projects API](https://apis.io/apis/cloudtruth/cloudtruth-projects-api/) — The projects API from CloudTruth — 20 operation(s) for projects.
+- [CloudTruth Reports API](https://apis.io/apis/cloudtruth/cloudtruth-reports-api/) — The reports API from CloudTruth — 2 operation(s) for reports.
+- [CloudTruth Schema API](https://apis.io/apis/cloudtruth/cloudtruth-schema-api/) — The Schema API from CloudTruth — 1 operation(s) for schema.
+- [CloudTruth Types API](https://apis.io/apis/cloudtruth/cloudtruth-types-api/) — The types API from CloudTruth — 4 operation(s) for types.
+- [CloudTruth Users API](https://apis.io/apis/cloudtruth/cloudtruth-users-api/) — The users API from CloudTruth — 3 operation(s) for users.
+- [CloudTruth Utils API](https://apis.io/apis/cloudtruth/cloudtruth-utils-api/) — The utils API from CloudTruth — 1 operation(s) for utils.
+- [CloudTruth Webhooks API](https://apis.io/apis/cloudtruth/cloudtruth-webhooks-api/) — The webhooks API from CloudTruth — 2 operation(s) for webhooks.
+- [CloudTruth Service Accounts API](https://apis.io/apis/cloudtruth/cloudtruth-service-accounts-api/) — The Service Accounts API from CloudTruth — 3 operation(s) for service accounts.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Cloudtruth Webhooks](https://apis.io/asyncapis/cloudtruth/cloudtruth-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Cloudtruth Agentic Access](https://apis.io/agentic-access/cloudtruth/cloudtruth-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AwsPull](https://apis.io/schemas/cloudtruth/cloudtruth-aws-pull/)
+- [AwsPush](https://apis.io/schemas/cloudtruth/cloudtruth-aws-push/)
+- [AzureKeyVaultPush](https://apis.io/schemas/cloudtruth/cloudtruth-azure-key-vault-push/)
+- [Parameter](https://apis.io/schemas/cloudtruth/cloudtruth-parameter/)
+- [PatchedAwsPull](https://apis.io/schemas/cloudtruth/cloudtruth-patched-aws-pull/)
+- [Value](https://apis.io/schemas/cloudtruth/cloudtruth-value/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Cloudtruth Context](https://apis.io/jsonld/cloudtruth/cloudtruth-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Cloudtruth Openapi Overlay](https://apis.io/overlays/cloudtruth/cloudtruth-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [CloudTruth API Rules](https://apis.io/rules/cloudtruth/cloudtruth-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cloudtruth Authentication](https://apis.io/security/cloudtruth/cloudtruth-authentication/)
+- [Cloudtruth Domain Security](https://apis.io/security/cloudtruth/cloudtruth-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://cloudtruth.com/)
+- [Documentation](https://docs.cloudtruth.com/)
+- [Getting started](https://docs.cloudtruth.com/getting-started)
+- [API reference](https://api.cloudtruth.io/api/schema/redoc/)
+- [Pricing](https://cloudtruth.com/pricing)
+- [Blog](https://cloudtruth.com/blog)
+- [Terms of service](https://cloudtruth.com/terms-of-service)
+- [Privacy policy](https://cloudtruth.com/privacy-policy)
+- [GitHub](https://github.com/cloudtruth)
+
+## API Evangelist rating
+
+**Kin Score 46.4** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 73.2 |
+| Contract quality | 67.3 |
+| Contract governance | 22.0 |
+| Operational transparency | 13.2 |
+| Developer ergonomics | 54.2 |
+| Access clarity | 31.6 |
+
+**Agent readiness 35.5** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | derived (partial credit) |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | yes |
+| Agent Skills | derived (partial credit) |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | yes |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cloudtruth/](https://apis.io/providers/cloudtruth/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for CloudTruth: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cloudtruth/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
